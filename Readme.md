@@ -69,12 +69,7 @@
     </a>
 </p>
 
-## 📊 My Github Statistics
 
-  <br/>
-    <a href="https://github.com/SJBrahma2008/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SJBrahma2008&show_icons=true&count_private=true&theme=github&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SJBrahma2008/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJBrahma2008&langs_count=8&count_private=true&layout=compact&theme=github&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
 
 
 
