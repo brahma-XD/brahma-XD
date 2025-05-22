@@ -37,6 +37,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>    
     <a href="https://tailwindcss.com" target="_blank"> <img width="48px" marginBottom="3px" height"48px" src="./tailwind-removebg-preview.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="#" target="_blank"><img width="40" height="50" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/nolan/512/express-js.png" width="48" height="48"/> </a> 
     <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
@@ -63,11 +64,7 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/brahma-XD/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SJBrahma2008&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 
 
