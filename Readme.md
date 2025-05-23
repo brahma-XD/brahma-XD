@@ -64,7 +64,7 @@
 
 <br/>
 
-
+![Soumyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=brahma-XD&show_icons=true&theme=radical)
 
 
 
