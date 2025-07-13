@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **[AI Automation](hhttps://github.com/SJBrahma2008)**
 
-- 👯 I’m looking to collaborate on **Your Business, YouTube, Your Social Media, Appointment Scheduling & Lead Generation**
+- 👯 I’m looking to collaborate on **Marketing**
 
 - 📫 How to reach me **soumyajitbrah@gmail.com**
 
