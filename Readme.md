@@ -2,17 +2,15 @@
 <!-- <a align="center" href="#" align="center"><img width="100%" height="auto"  src="https://i.imgur.com/iXuL1HG.png" /></a> -->
 
 <h1 align="center">Hey <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="40px"> I'm Soumyajit</h1>
-<h3 align="left">I'm a self-taught Developer & AI Automation Engineer from India</h3>
+<h3 align="left">I'm a self-taught Developer from India</h3>
 
 
 ## About Me 🙋‍
-- 🔭 I will help you to Automate your **[repetitive tasks and lead gen](mailto:soumyajitbrah@gmail.com)**
+- 👨‍💻 I am learning & building apps with **[Claude Code](https://github.com/brahma-XD)**
 
-- 👨‍💻 I have worked with **[20+ Companies](https://docs.google.com/spreadsheets/d/1mYGQ8ezUxs1nog50tFmCFF24MdfLKoU6K4WATkC-AcQ/edit?usp=sharing)**
+- 👨‍💻 Next I will  Work On **[Some cool Micro products](https://github.com/brahma-XD)**
 
-- 👨‍💻 Next I will  Work On **[Some cool Micro products](https://github.com/SJBrahma2008)**
-
-- 🌱 I’m currently learning **[AI Automation](hhttps://github.com/SJBrahma2008)**
+- 🌱 I’m currently learning **[AI Automation](hhttps://github.com/brahma-XD)**
 
 - 👯 I’m looking to collaborate on **Marketing**
 
